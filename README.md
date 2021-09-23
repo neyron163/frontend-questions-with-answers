@@ -22,7 +22,7 @@
 </details>
 
 <details>
-<summary>Что такое чистые функции(https://mail.ru/)</summary>
+<summary>Что такое чистые функции ?(https://mail.ru/)</summary>
 <div> <br />
 <img src="https://user-images.githubusercontent.com/25846811/134527421-3718cebf-454a-45c7-b424-0c8078a5026a.jpg">
 	<p>- Каждый раз функция возвращает одинаковый результат, когда она вызывается с тем же набором аргументов</p>
