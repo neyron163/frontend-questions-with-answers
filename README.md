@@ -9,3 +9,23 @@
 <br /> Для тех кто не знает как это работает рекомендую прочитать статью - https://proweb63.ru/help/js/kontekst-vyipolneniya-funkczii-v-javascript
 </div>
 </details>
+
+
+<details>
+<summary>Напишите бесконечное каррирование(https://www.tinkoff.ru/)</summary>
+<div> <br />
+<img src="https://user-images.githubusercontent.com/25846811/134523078-c0524167-3a12-43d4-b1e7-883c70ce3c7d.jpg">
+	<br />
+	<a href="https://codesandbox.io/s/infinite-currying-in-javascript-1ic0b?file=/src/index.js">Sandbox Example</a>
+</div>
+</details>
+
+<details>
+<summary>Чистые функции(https://mail.ru/)</summary>
+<div> <br />
+<img src="https://user-images.githubusercontent.com/25846811/134527421-3718cebf-454a-45c7-b424-0c8078a5026a.jpg">
+	<p>- Каждый раз функция возвращает одинаковый результат, когда она вызывается с тем же набором аргументов</p>
+	<p>- Нет побочных эффектов</p>
+	<p><a href="https://codesandbox.io/s/pure-function-in-javascript-n2tcr?file=/src/index.js">Sandbox Example</a></p>
+</div>
+</details>
